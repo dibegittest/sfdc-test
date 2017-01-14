@@ -1,7 +1,9 @@
-public class test1 {
-    public test1() {
+@isTest
+private class TST_test1 {
+    @isTest
+    static void testEmpty1() {
            //new comment
-        String hello = 'Hello Git updated';
+        String hello = 'Hello Git';
         //sldkjfsldkfj
         //kjbkjkjkjh
         //ghtffghf

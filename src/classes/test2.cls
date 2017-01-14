@@ -1,7 +1,7 @@
-public class test1 {
-    public test1() {
+public class test2 {
+    public test2() {
            //new comment
-        String hello = 'Hello Git updated';
+        String hello = 'Hello Git test2';
         //sldkjfsldkfj
         //kjbkjkjkjh
         //ghtffghf

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Config>
+    <mappings>
+        <class>test1</class>
+        <tests>TST_test1</tests>
+    </mappings>
+</Config>
